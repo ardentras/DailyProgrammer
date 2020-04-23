@@ -7,6 +7,8 @@
 // Daily Programmer Challenge #384
 //  Necklace Counting
 //
+//  https://old.reddit.com/r/dailyprogrammer/comments/g1xrun/20200415_challenge_384_intermediate_necklace/
+//
 
 #include <stdio.h>
 #include <math.h>
