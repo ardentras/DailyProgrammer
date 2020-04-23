@@ -9,6 +9,10 @@
 //
 //  https://old.reddit.com/r/dailyprogrammer/comments/aq6gfy/20190213_challenge_375_intermediate_a_card/
 //
+// Issues:
+//   Cannot go back and try skipping over a 1 previous if a no solution is found
+//   directly recursively
+//
 
 #include <stdlib.h>
 #include <stdio.h>
